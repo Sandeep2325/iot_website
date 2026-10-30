@@ -63,7 +63,7 @@ export default function WatchlistPage() {
     <>
       <PageHeader
         title="Watchlist"
-        description="Set a target price and see when a part drops to it. Email alerts arrive with the backend in Phase 6."
+        description="Set a target price and get an alert here when a part drops to it."
       />
 
       {itemCount === 0 ? (
